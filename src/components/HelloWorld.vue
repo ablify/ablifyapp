@@ -2,7 +2,6 @@
   <div class="cont">
     <div class="row align-items-end">
       <div class="col col-md-6">
-        <h3 class="display-3 text-capitalize">Developers</h3>
         <h4 class="display-4">Community That</h4>
         <h2>Defines Us By what we do</h2>
         <p></p>
